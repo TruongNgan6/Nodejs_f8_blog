@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongNgan6/Nodejs_f8_blog.git"
+  },
+  "keywords": [
+    "f8"
+  ],
+  "author": "Ngan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruongNgan6/Nodejs_f8_blog/issues"
+  },
+  "homepage": "https://github.com/TruongNgan6/Nodejs_f8_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
